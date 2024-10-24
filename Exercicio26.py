@@ -1,0 +1,9 @@
+a=1 
+b=1
+print(a)
+c=1
+while(c<2000):
+    print(c)
+    c=a+b
+    a=b
+    b=c
